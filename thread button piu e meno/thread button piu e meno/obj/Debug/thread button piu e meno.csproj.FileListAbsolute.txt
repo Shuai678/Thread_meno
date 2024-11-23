@@ -8,3 +8,13 @@ C:\Users\shuai.21032\Desktop\thread button piu e meno\thread button piu e meno\b
 C:\Users\shuai.21032\Desktop\thread button piu e meno\thread button piu e meno\bin\Debug\thread button piu e meno.pdb
 C:\Users\shuai.21032\Desktop\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.exe
 C:\Users\shuai.21032\Desktop\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.pdb
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\bin\Debug\thread button piu e meno.exe.config
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\bin\Debug\thread button piu e meno.exe
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\bin\Debug\thread button piu e meno.pdb
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.csproj.AssemblyReference.cache
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread_button_piu_e_meno.Form1.resources
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread_button_piu_e_meno.Properties.Resources.resources
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.csproj.GenerateResource.cache
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.csproj.CoreCompileInputs.cache
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.exe
+C:\Users\shuai.21032\Desktop\Thread_meno\thread button piu e meno\thread button piu e meno\obj\Debug\thread button piu e meno.pdb

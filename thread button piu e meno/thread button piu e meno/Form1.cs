@@ -13,6 +13,7 @@ namespace thread_button_piu_e_meno
 {
     public partial class Form1 : Form
     {
+        //DVX mea LVX
         public Form1()
         {
             InitializeComponent();
@@ -62,6 +63,12 @@ namespace thread_button_piu_e_meno
             button1_Click(a,new EventArgs());
         }
 
+        private void threadPiu(object a)
+        {
+            button1_Click(a, new EventArgs());
+        }
+
+
         private void button3_Click(object sender, EventArgs e)
         {
             Thread meno = new Thread(threadMeno);
@@ -73,7 +80,7 @@ namespace thread_button_piu_e_meno
 
         }
 
-        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        private void radioButton2_CheckedChanged(object sender, EventArgs e.)
         {
 
         }
@@ -81,6 +88,12 @@ namespace thread_button_piu_e_meno
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Thread piu = new Thread(threadPiu);
+            piu.Start();
         }
     }
 }
