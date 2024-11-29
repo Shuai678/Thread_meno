@@ -47,7 +47,7 @@
             this.label1.Size = new System.Drawing.Size(74, 39);
             this.label1.TabIndex = 0;
             this.label1.Text = "100";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            //this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button3
             // 
@@ -57,7 +57,7 @@
             this.button3.TabIndex = 3;
             this.button3.Text = "thread -";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            //this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -67,7 +67,7 @@
             this.button4.TabIndex = 4;
             this.button4.Text = "thread +";
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            //this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // label2
             // 
